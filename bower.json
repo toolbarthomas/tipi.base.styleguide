@@ -4,7 +4,7 @@
     "authors": [
         "Thomas van der Velde <contact@toolbarthomas.net>"
     ],
-    "description": "Horizontally align multiple elements",
+    "description": "Living Styleguide generator package for Tipi",    
     "keywords": [
         "toolbarthomas",
         "modular",
