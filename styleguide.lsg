@@ -1,0 +1,15 @@
+@scss assets/sass/styleguide.scss;
+
+@title Styleguide Tipi
+
+
+@import partials/header.lsg;
+
+# Starting with tipi
+
+First things first: installing tipi. Make sure you have installed <a href="https://bower.io/" target="_blank">Bower</a>.
+After that, Tipi is easy to set up, just run in your terminal:
+
+ ```
+bower install tipi
+ ```

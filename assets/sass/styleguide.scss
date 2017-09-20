@@ -1,0 +1,33 @@
+@import '../../../../bower_components/bourbon/app/assets/stylesheets/bourbon';
+
+@import '../../../../src/assets/sass/tipi.core/variables/_responsive.scss';
+@import '../../../../src/assets/sass/tipi.core/variables/_color.scss';
+
+@import '../../../../src/assets/sass/tipi.core/mixins/_breakpoint.scss';
+@import '../../../../src/assets/sass/tipi.core/mixins/_clear.scss';
+@import '../../../../src/assets/sass/tipi.core/mixins/_responsive-font-size.scss';
+@import '../../../../src/assets/sass/tipi.core/mixins/_webfont.scss';
+
+@import '../../../../bower_components/tipi.base.defaults/tipi.base.defaults';
+@import '../../../../bower_components/tipi.base.combined/tipi.base.combined';
+@import '../../../../bower_components/tipi.base.columns/tipi.base.columns';
+@import '../../../../bower_components/tipi.base.element-group/tipi.base.element-group';
+@import '../../../../bower_components/tipi.base.fluid/tipi.base.fluid';
+@import '../../../../bower_components/tipi.base.helpers/tipi.base.helpers';
+@import '../../../../bower_components/tipi.base.spaces/tipi.base.spaces';
+@import '../../../../bower_components/tipi.base.sticky-end/tipi.base.sticky-end';
+@import '../../../../bower_components/tipi.base.typography/tipi.base.typography';
+@import '../../../../bower_components/tipi.base.valign/tipi.base.valign';
+@import '../../../../bower_components/tipi.base.wrapper/tipi.base.wrapper';
+
+@import 'lsg';
+
+@include core_defaults;
+@include core_combined;
+@include core_columns;
+@include core_typography;
+@include core_element-group;
+@include core_spaces;
+@include core_sticky-end;
+@include core_valign;
+@include core_wrapper;
