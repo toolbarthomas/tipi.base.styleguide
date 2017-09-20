@@ -1,0 +1,16 @@
+{
+    "name": "tipi.base.styleguide",
+    "homepage": "https://github.com/toolbarthomas/tipi.base.styleguide",
+    "authors": [
+        "Thomas van der Velde <contact@toolbarthomas.net>"
+    ],
+    "description": "Horizontally align multiple elements",
+    "keywords": [
+        "toolbarthomas",
+        "modular",
+        "tipi",
+        "styleguide"
+    ],
+    "license": "MIT",
+    "main": "styleguide.lsg"
+}
